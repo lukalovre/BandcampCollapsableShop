@@ -6,6 +6,7 @@
 // @author       Luka Lovre
 // @match        https://*.bandcamp.com/*
 // @grant       none
+// @license MIT
 // ==/UserScript==
 
 window.self === window.top && window.siteroot && "https://bandcamp.com" == window.siteroot && (function() {
